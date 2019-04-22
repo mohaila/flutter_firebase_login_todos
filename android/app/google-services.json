@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "914702488165",
+    "firebase_url": "https://flutter-login-todos.firebaseio.com",
+    "project_id": "flutter-login-todos",
+    "storage_bucket": "flutter-login-todos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914702488165:android:a3f431d3fc62055f",
+        "android_client_info": {
+          "package_name": "ca.qc.mtl.mohaila.flutter_firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914702488165-5t4udu1gf7rr54kshv4hsl60u02pvaip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLgNPDT-NUpEnQV8ng96FXcThx_EYO9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914702488165-5t4udu1gf7rr54kshv4hsl60u02pvaip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
